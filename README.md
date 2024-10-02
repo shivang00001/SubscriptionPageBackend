@@ -52,4 +52,3 @@ Large, active community with extensive support resources.
 
 Spring Boot streamlines Java development for web applications and microservices, offering a robust ecosystem for efficient and scalable software development.
 
-Would you like more information on Spring Boot or related topics?
